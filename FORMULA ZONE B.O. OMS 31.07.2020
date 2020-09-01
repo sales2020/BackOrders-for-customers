@@ -1,0 +1,17 @@
+2020-07-31-343																			
+id	client_name	client_code	cre_date	product_list_quoted	product_count	total_pcs	currency	total	po_number	inv_number	pmt_method_str	shipping	discount	tax	delivery_by	weight	status_str	notes	
+776	Formula Zone 2005 Ltd	FORM421	2020-07-31	"LS056A:LS056C:LS069A:LS069C"	4	16	usd	1224,0	PO-776	INV-776	Bank Transfer Payment	0,0	0,0	0,0	UPS	4,8	Pending		
+	LS056A	4	776	306	Pending														
+	LS056C	4	76,5	306	Pending														
+	LS069A	4	76,5	306	Pending														
+	LS069C	4	76,5	306	Pending														
+752	Formula Zone 2005 Ltd	FORM421	2020-07-07	"LS042A:LS042B:LS042C:LS043A:LS043C"	5	20	usd	1530	PO-752	INV-752	Bank Transfer Payment	0	0	0	UPS	6	Pending		
+	LS042A	4	76,5	306	Pending														
+	LS042B	4	76,5	306	Pending														
+	LS042C	4	76,5	306	Pending														
+	LS043A	4	76,5	306	Pending														
+	LS043C	4	76,5	306	Pending														
+751	Formula Zone 2005 Ltd	FORM421	2020-07-07	"LS032C:LS033C:LS040B:LS040C"	4	5	usd	382,5	PO-751	INV-751	Bank Transfer Payment	0	0	0	UPS	1,5	Pending		
+	LS032C	1	76,5	76,5	Pending														
+	LS033C	1	76,5	76,5	Pending														
+	LS040B	2	76,5	153	Pending														
